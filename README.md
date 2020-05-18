@@ -1,0 +1,2 @@
+# udacity_capstone_project_I94_immigration_dataset
+This is the final project in the udacity Data Engineering Nanodegree. This is an open end research project to clean, process and model varied datasets, define use cases for final deliverable and build a complete pipeline.
